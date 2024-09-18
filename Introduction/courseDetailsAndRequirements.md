@@ -13,10 +13,10 @@ By immersing the student in a full-stack development experience, this course hel
 ## Formatting used in the course means something!
 In order to make it easier to distinguish the various types of content in the course, we use the color coding and formats below:
 
-> <span style="color:rgb(50, 0, 255);">Dark blue: Text typed at the command line</span>
+ <span style="color:rgb(50, 0, 255);">Dark blue: Text typed at the command line</span>
 
-> <span style="color: rgb(106, 191, 75);">Green: Output</span>
+ <span style="color: rgb(106, 191, 75);">Green: Output</span>
 
-> <span style="color: rgb(0, 0, 0);">Black: File content<span>
+ <span style="color: rgb(0, 0, 0);">Black: File content<span>
 
-> <span style="color: rgb(181, 101, 29);">Brown: File/Directory names</span>
+ <span style="color: rgb(181, 101, 29);">Brown: File/Directory names</span>
