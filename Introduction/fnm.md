@@ -33,7 +33,7 @@ $ fnm install --lts
 ```
 >This command will install the latest LTS (Long-Term Support) version of Node.
 
->[!Impotant]
+>[!Important]
 >It is important to note that the exact numbers at the end of the version may vary, however it would still be suitable for this course. For example, you can install the latest available version of Node by supplying the following command to fnm:
 
 ```
