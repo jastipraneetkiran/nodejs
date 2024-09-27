@@ -12,7 +12,7 @@ The first step is to create a new folder called static in your project directory
 $ mkdir static
 ```
 Feel free to use any preferred method to create the static folder.
-
+## 
 
 # Quick File Server (2)
 The second step is to create two files inside the static folder labeled index.html and app.js. Place the respective code into each file as shown below:
@@ -87,7 +87,7 @@ customElements.define('product-item', class Item extends HTMLElement {
   }
 })
 ```
-
+## 
 # Quick File Server (3)
 Next, navigate to the directory that contains the static folder within the terminal.
 
@@ -113,8 +113,10 @@ Example of Fetch Products Button
 Click the Fetch Products button to populate the web page with some data.
 
 You can also expand these sections by clicking on them. Once all of the sections are expanded, it should look like the image below:
+## 
 
 ![https://github.com/jastipraneetkiran/nodejs/blob/serviceMocking/images/39yvdkzi59aa-R_image9.png](images/39yvdkzi59aa-R_image9.png)
+## 
 
 >Expanded Sections View in App
 
