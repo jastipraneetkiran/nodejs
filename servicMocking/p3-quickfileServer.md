@@ -122,4 +122,10 @@ You can also expand these sections by clicking on them. Once all of the sections
 
 The data that generates the information in these elements is currently embedded in the client side code within app.js.
 
-Feel free to customize the content of the index.html and app.js files according to your requirements.
+Feel free to customize the content of the index.html and **app.js** files according to your requirements.
+
+# Quick File Server (Summary)
+In this section, we installed the serve package and created a static folder to store our web application files. We placed an index.html file and an app.js file in the static folder, which contain the necessary HTML and JavaScript code for our simple web application.
+
+By running the serve command with the appropriate options, we started a file server that hosts our static folder on port 5050. This allows us to access our web application in the browser by visiting http://localhost:5050.
+
