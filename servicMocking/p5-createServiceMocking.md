@@ -1,5 +1,5 @@
 # Mocking a Web Service (1)
->We are going to continue working in the same project folder and making alterations to prior sections as we go.
+We are going to continue working in the same project folder and making alterations to prior sections as we go.
 In the last section we created a **static** folder with an **index.html** file and an **app.js** file.
 
 >The top of the **app.js** file in the prior section contained the following data array:
